@@ -10,37 +10,38 @@ Left a successful career in book publishing to pursue dream of working in a prop
 
 Project name | Skills developed
 --- | ---
-[Instagram Challenge](https://github.com/KateWilkinson) | Deployed to Heroku [here](). Learned about RESTful Ruby on Rails applications, and finally got to grips with relational databases with ActiveRecord.
-[To Do App] (https://github.com/KateWilkinson) | Deployed to Heroku [here](). Learned about Angular and it’s power to create truly responsive front-end applications.
-[Thermostat](https://github.com/KateWilkinson) | Deployed to Heroku [here](). First experience using JavaScript, learning when the jQuery library is needed and when it’s not, and a foray into AJAX and API calls.
+[Instagram Challenge](https://github.com/KateWilkinson) | Learned about RESTful Ruby on Rails applications and finally got to grips with relational databases with ActiveRecord.
+[To Do App] (https://github.com/KateWilkinson) | AngularJS and responsive front-end applications, two-way data binding and services.
+[Thermostat](https://github.com/KateWilkinson) | First experience using JavaScript, getting comfortable with the uses of jQuery and beginning to work with JSON, AJAX and API calls.
 [Pairing Matrix](https://github.com/KateWilkinson) |  Learned a lot about working as a team on a development project, Git workflow, merge conflicts and waffle!
-[Rock, Paper, Scissors](https://github.com/KateWilkinson) |  The first program I wrote where I felt really happy with my OOD.
+[Rock, Paper, Scissors](https://github.com/KateWilkinson) |  The first program I wrote where I felt comfortable with OOD and was happy with my approach.
 
 
 #### Communication
 
+Four years experience working as a production controller in the publishing industry helped me to become an excellent communicator - a skill which is of great importance to any software developer.
+
+- explaining processes to other colleagues
+- diplomacy - often in the middle of discussions between different departments
+- negotiation with printers
+
+Very similar to skills needed to work in coding. Prepared me well for pair programming and working in a team - I'm good at handling disagreements and suggesting compromises without losing sight of the goals of the project and time and means available to the team. 
 
 
-- Experience
-- Achievements
-- Evidence
 
 #### Problem Solving
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Given a brief by an editor or designer, I needed to work out what the most important aspects of the brief were and work out how to achieve them. This experience has helped me to be able to approach a coding problem similarly - to look at the key problems to be solved, to work out what tools, resources or information are necessary to solve them, and to work out what's achievable in the given time frame. 
+
+Children's books - colour management - very specific needs of the illustrator
+Watchmaker of Filigree Street - complex design brief 
+
 
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-#### Project Management
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
 
 ## Education
 

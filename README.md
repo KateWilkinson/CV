@@ -1,7 +1,7 @@
 ## Kate Wilkinson
 
 Aspiring web developer. Passionate about solving tricky problems, good design and making stuff work.
-Left a successful career in book publishing to pursue dream of working in a properly creative environment where I'm learning every day. Convinced that a career in coding will meet these criteria having completed an intensive web development course at Makers Academy where I was building something new and different every week and repeatedly told that I will never be able to learn all there is to know about code.
+Left a successful career in book publishing to pursue dream of working in a properly creative industry where I'm learning every day. Now convinced that a career in coding will meet these criteria having completed an intensive web development course at Makers Academy, where I built something different every week and was told repeatedly told that I'll never be able to learn all there is to know about code! Looking for a development role where I can craft code that's clean, functional and beautiful, in an environment that encourages learning, communication and creativity.
 
 
 ## Skills
@@ -10,53 +10,45 @@ Left a successful career in book publishing to pursue dream of working in a prop
 
 Project name | Skills developed
 --- | ---
-[Instagram Challenge](https://github.com/KateWilkinson) | Learned about RESTful Ruby on Rails applications and finally got to grips with relational databases with ActiveRecord.
+[Instagram Challenge](https://github.com/KateWilkinson) | Learned about RESTful Ruby on Rails applications and felt I really got to grips with relational databases with ActiveRecord.
 [To Do App] (https://github.com/KateWilkinson) | AngularJS and responsive front-end applications, two-way data binding and services.
-[Thermostat](https://github.com/KateWilkinson) | First experience using JavaScript, getting comfortable with the uses of jQuery and beginning to work with JSON, AJAX and API calls.
+[Thermostat](https://github.com/KateWilkinson) | First experience using JavaScript, getting comfortable with the uses of jQuery and working with JSON and API calls.
 [Pairing Matrix](https://github.com/KateWilkinson) |  Learned a lot about working as a team on a development project, Git workflow, merge conflicts and waffle!
 [Rock, Paper, Scissors](https://github.com/KateWilkinson) |  The first program I wrote where I felt comfortable with OOD and was happy with my approach.
 
 
 #### Communication
 
-Four years experience working as a production controller in the publishing industry helped me to become an excellent communicator - a skill which is of great importance to any software developer.
+Four years experience working as a Production Controller in the publishing industry helped me to become an excellent communicator - a skill that's incredibly important to any software developer.
 
-- explaining processes to other colleagues
-- diplomacy - often in the middle of discussions between different departments
-- negotiation with printers
+I needed to be a able to explain complex print processes and issues clearly to other colleagues; often to those from other areas of the business who weren't familiar with the technical language and who needed a concise and understandable overview of what was happening with projects. I'm also a good diplomat, with plenty of experience simultaneously managing the expectations of different departments in the business whose priorities were not always the same! 
 
-Very similar to skills needed to work in coding. Prepared me well for pair programming and working in a team - I'm good at handling disagreements and suggesting compromises without losing sight of the goals of the project and time and means available to the team. 
-
+As a developer, the ability to communicate about ideas and complex code quickly and clearly to a colleague or a client, and being able to diplomatically handle disagreements or conflicts within a team are key skills. I've definitely felt the benefit of these skills as well as developing them further while pair programming and taking part in team projects at Makers Academy. 
 
 
 #### Problem Solving
 
-Given a brief by an editor or designer, I needed to work out what the most important aspects of the brief were and work out how to achieve them. This experience has helped me to be able to approach a coding problem similarly - to look at the key problems to be solved, to work out what tools, resources or information are necessary to solve them, and to work out what's achievable in the given time frame. 
+Sometimes I would be given a complicated brief for a book design by an editor or designer, and it was my job to work out what the most important requirements were and how to achieve them. It was the most exciting part of my job - to be given a brief and to come up with a solution that would bring those ideas to life in a finished product. It meant asking a lot of questions, doing a lot of research, prototyping and also recognising whether some aspects weren't achievable. 
 
-Children's books - colour management - very specific needs of the illustrator
-Watchmaker of Filigree Street - complex design brief 
-
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+My experience allows me to approach a coding problem similarly - to look at the key problems to be solved, to work out what tools, resources or information are necessary to solve them, and to be objective and realistic about what's achievable in the given time frame. I know from experience that it's better to deliver a simpler, complete version of a product with key features in place and working properly, than something with lots of features that hadn't been planned and tested properly that will fall apart.
 
 
 ## Education
 
 #### Makers Academy (June 2015 - August 2015)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Capybara, Karma
+The crucial thing I learnt at Makers Academy was how to learn quickly, independently and responsively. I already had a curiosity about coding and a passion for crafting functional, beautiful products, and with my new learning superpowers I now have the confidence and ability to find elegant solutions to coding problems and tailor them to my needs, as well as to continue learning new technologies and approaches.
+
+I've also learnt a lot of other things over the last 12 weeks, including;
+
+- Best practices and key principles such as Object-Oriented Design, Test-Driven Development, SOLID
+- How to craft and deliver clean, legible code by following Agile methodology and refactoring
+- How to use technologies like Ruby, Rails, Javascript, Node.js, Angular.js
+- Extensive testing using Rspec, Jasmine, Capybara, Karma, Protractor
 
 #### University of the Arts London (2010 - 2011)
 
-- MA Book Publishing 
+- MA Book Publishing (Merit)
 
 #### Cardiff University (2006 - 2009)
 

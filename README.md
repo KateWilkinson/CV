@@ -22,11 +22,13 @@ Project name | Skills developed
 
 #### Communication
 
-Four years experience working as a Production Controller in the publishing industry helped me to become an excellent communicator - a skill that's incredibly important to any software developer.
+Four years experience working as a Production Controller in the publishing industry made me an excellent communicator - a skill that's incredibly important to any software developer. 
 
-I needed to be a able to explain complex print processes and issues clearly to other colleagues; often to those from other areas of the business who weren't familiar with the technical language and who needed a concise and understandable overview of what was happening with projects. I'm also a good diplomat, with plenty of experience simultaneously managing the expectations of different departments in the business whose priorities were not always the same! 
+* Explaining complex print processes clearly to other colleagues; often those from other areas of the business who weren't familiar with the technical language.
+* Providing a clear and concise overview of the state of ongoing projects to colleagues, and detailed instructions to suppliers.
+* Negotiating, and managing the expectations of different departments in a diplomatic fashion.
 
-As a developer, the ability to communicate about ideas and complex code quickly and clearly to a colleague or a client, and being able to diplomatically handle disagreements or conflicts within a team are key skills. I've definitely felt the benefit of these skills as well as developing them further while pair programming and taking part in team projects at Makers Academy. 
+As a developer, the ability to communicate about ideas and complex code quickly and clearly to a colleague or a client, and being able to diplomatically handle disagreements or conflicts within a team are key skills. I've definitely felt the benefit of these skills while pair programming and taking part in team projects at Makers Academy. 
 
 
 #### Problem Solving

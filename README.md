@@ -1,7 +1,10 @@
 ## Kate Wilkinson
 
-Aspiring web developer. Passionate about solving tricky problems, good design and making stuff work.
-Left a successful career in book publishing to pursue dream of working in a properly creative industry where I'm learning every day. Now convinced that a career in coding will meet these criteria having completed an intensive web development course at Makers Academy, where I built something different every week and was told repeatedly told that I'll never be able to learn all there is to know about code! Looking for a development role where I can craft code that's clean, functional and beautiful, in an environment that encourages learning, communication and creativity.
+I'm an aspiring web developer who's passionate about solving tricky problems, good design and making stuff work.
+
+Previously worked in book publishing, but left to pursue dream of working in a properly creative industry where I'm learning every day. I'm now convinced that a career in coding will meet these criteria, having spent the last three months building something new and exciting every week and being told repeatedly that I'll never be able to learn all there is to know about code!
+
+I'm now looking for a development role where I can craft code that's clean, functional and beautiful, in an environment that encourages learning, communication and creativity.
 
 
 ## Skills

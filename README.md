@@ -26,7 +26,7 @@ Four years experience working as a Production Controller in the publishing indus
 
 * Explaining complex print processes clearly to other colleagues; often those from other areas of the business who weren't familiar with the technical language.
 * Providing a clear and concise overview of the state of ongoing projects to colleagues, and detailed instructions to suppliers.
-* Negotiating, and managing the expectations of different departments in a diplomatic fashion.
+* Negotiating and managing the expectations of different departments with diplomacy.
 
 As a developer, the ability to communicate about ideas and complex code quickly and clearly to a colleague or a client, and being able to diplomatically handle disagreements or conflicts within a team are key skills. I've definitely felt the benefit of these skills while pair programming and taking part in team projects at Makers Academy. 
 

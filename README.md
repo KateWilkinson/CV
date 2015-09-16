@@ -1,6 +1,6 @@
 ## Kate Wilkinson
 
-I'm an aspiring web developer who's passionate about solving tricky problems, good design and making stuff work.
+An aspiring web developer who's passionate about solving tricky problems, good design and making stuff work.
 
 Previously worked in book publishing, but left to pursue dream of working in a properly creative industry where I'm learning every day. I'm now convinced that a career in coding will meet these criteria, having spent the last three months building something new and exciting every week and being told repeatedly that I'll never be able to learn all there is to know about code!
 

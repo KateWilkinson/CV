@@ -11,18 +11,20 @@ I'm now looking for a development role where I can craft code that's clean, func
 
 #### Software Development
 
+Examples of skills developed while working on projects at Makers Academy.
+
 Project name | Skills developed
 --- | ---
-[Instagram Challenge](https://github.com/KateWilkinson) | Learned about RESTful Ruby on Rails applications and felt I really got to grips with relational databases with ActiveRecord.
-[To Do App] (https://github.com/KateWilkinson) | AngularJS and responsive front-end applications, two-way data binding and services.
-[Thermostat](https://github.com/KateWilkinson) | First experience using JavaScript, getting comfortable with the uses of jQuery and working with JSON and API calls.
-[Pairing Matrix](https://github.com/KateWilkinson) |  Learned a lot about working as a team on a development project, Git workflow, merge conflicts and waffle!
 [Rock, Paper, Scissors](https://github.com/KateWilkinson) |  The first program I wrote where I felt comfortable with OOD and was happy with my approach.
+[Instagram Challenge](https://github.com/KateWilkinson) | Learned about RESTful Ruby on Rails applications and felt I really got to grips with relational databases with ActiveRecord.
+[Thermostat](https://github.com/KateWilkinson) | First experience using JavaScript, getting comfortable with the uses of jQuery and working with JSON and API calls.
+[To Do App](https://github.com/KateWilkinson) | AngularJS and responsive front-end applications, two-way data binding and services.
+[Pairing Matrix](https://github.com/KateWilkinson) |  Learned a lot about working as a team on a development project, Git workflow, merge conflicts and waffle!
 
 
 #### Communication
 
-Four years experience working as a Production Controller in the publishing industry made me an excellent communicator - a skill that's incredibly important to any software developer. 
+Four years experience working as a Production Controller in the publishing industry made me an excellent communicator - a skill that's incredibly important to any software developer. My day to day job involved -
 
 * Explaining complex print processes clearly to other colleagues; often those from other areas of the business who weren't familiar with the technical language.
 * Providing a clear and concise overview of the state of ongoing projects to colleagues, and detailed instructions to suppliers.
@@ -33,22 +35,29 @@ As a developer, the ability to communicate about ideas and complex code quickly 
 
 #### Problem Solving
 
-Sometimes I would be given a complicated brief for a book design by an editor or designer, and it was my job to work out what the most important requirements were and how to achieve them. It was the most exciting part of my job - to be given a brief and to come up with a solution that would bring those ideas to life in a finished product. It meant asking a lot of questions, doing a lot of research, prototyping and also recognising whether some aspects weren't achievable. 
+The best part of my previous job was all the problem solving I had to do. I would often be given a complicated brief by an editor or designer, and it was my job to find the best way to bring those ideas to life. Here are some examples of problems I'm particularly proud of solving;
 
-My experience allows me to approach a coding problem similarly - to look at the key problems to be solved, to work out what tools, resources or information are necessary to solve them, and to be objective and realistic about what's achievable in the given time frame. I know from experience that it's better to deliver a simpler, complete version of a product with key features in place and working properly, than something with lots of features that hadn't been planned and tested properly that will fall apart.
+* Produced a book with 70 very old photographs reproduced in excellent quality and to the authors very precise specification. Required attention to detail, planning and research.
+* Handled production of a book with a hole cut into the front case to reveal a watch face perfectly centered on the endpaper behind. It was an incredibly complex project that needed precision and a lot of prototyping!
+* Responsible for a new solution for colour management for a well known illustrator who was very particular about exactly how colour would be reproduced when printed. This required the ability and confidence to look at the problem from a fresh perspective and try a new approach (as well as good use of my negotiating skills)
 
+I treat coding problems in the same way - I look at the key problems to be solved, work out what tools, resources or information are necessary to solve them, and can be objective and realistic about what's achievable in the given time frame.
+
+#### Project Management
+
+I was responsible for delivery of 10+ new books per month for editorial teams in 4 different locations, produced at printing companies across 4 continents and delivering into over a dozen warehouse locations, and so I'm very experienced in juggling different tasks, prioritising workload, working highly efficiently and meeting deadlines.
 
 ## Education
 
 #### Makers Academy (June 2015 - August 2015)
 
-The crucial thing I learnt at Makers Academy was how to learn quickly, independently and responsively. I already had a curiosity about coding and a passion for crafting functional, beautiful products, and with my new learning superpowers I now have the confidence and ability to find elegant solutions to coding problems and tailor them to my needs, as well as to continue learning new technologies and approaches.
+At Makers Academy I learnt how to learn quickly, independently and responsively. I already had a curiosity about coding and a passion for crafting beautiful products, and with my new learning superpowers I now have the confidence and ability to find elegant solutions to coding problems and tailor them to my needs, as well as to continue learning new technologies and approaches.
 
 I've also learnt a lot of other things over the last 12 weeks, including;
 
 - Best practices and key principles such as Object-Oriented Design, Test-Driven Development, SOLID
-- How to craft and deliver clean, legible code by following Agile methodology and refactoring
-- How to use technologies like Ruby, Rails, Javascript, Node.js, Angular.js
+- How to craft and deliver clean, legible code by following Agile methodology, debugging and refactoring
+- Technologies like Ruby, Rails, Javascript, Node.js, Angular.js
 - Extensive testing using Rspec, Jasmine, Capybara, Karma, Protractor
 
 #### University of the Arts London (2010 - 2011)

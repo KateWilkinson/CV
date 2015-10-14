@@ -18,7 +18,7 @@ Project name | Skills developed
 [Rock, Paper, Scissors](https://github.com/KateWilkinson/rps-challenge) |  The first program I wrote where I felt comfortable with OOD and was happy with my approach.
 [Instagram Challenge](https://github.com/KateWilkinson/instagram-challenge) | Learned about RESTful Ruby on Rails applications and felt I really got to grips with relational databases with ActiveRecord.
 [Thermostat](https://github.com/KateWilkinson/thermostat) | First experience using JavaScript and linking to a Sinatra server. Getting comfortable with the uses of jQuery and working with JSON and API calls.
-[To Do App](https://github.com/KateWilkinson/todo_challenge) | AngularJS and responsive front-end applications, two-way data binding and services.
+[Store Front](https://github.com/KateWilkinson/storefront) | AngularJS and responsive front-end applications, two-way data binding and services.
 [Pairing Matrix](https://github.com/KateWilkinson/pairing-matrix) |  Learned a lot about working as a team on a development project, Git workflow, merge conflicts and waffle.
 
 
